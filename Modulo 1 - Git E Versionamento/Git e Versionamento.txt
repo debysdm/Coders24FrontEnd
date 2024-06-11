@@ -1,0 +1,27 @@
+** Git e Versionamento **
+
+* O que é Git?
+
+Versonamento - Registro de mudanças em arquivos, que possibilita recuperação ou acesso a versões anteriores; Desenvolvimento de código em colaboração com outros integrantes.
+
+Git - é um sistema de versionamento de código, que grarda os registros de versão como snaapshots (fotos) do estado do projeto, alpem da referência/ caminho para foto.
+
+A maioria das operações feitas pelo Git são locais e por isso boa parte das operações são praticamente instantâneas devido à facilidade de acessar arquivos em seu próprio computador.
+
+* Instalando e configurando o Git
+
+* Repositórios do Git
+
+* Gravando mudanças no repositório
+
+* Git diff e commit
+
+* Git log e restore
+
+* Repositórios remotos
+
+* GitHub
+
+* Git branch
+
+* Merging branches
